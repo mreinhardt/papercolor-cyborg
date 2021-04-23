@@ -32,7 +32,7 @@ fun! PaperColor_cyborg#register()
         \     'color17' : ['#ff47d6', '206'],
         \     'cursor_fg' : ['#011f1f', '233'],
         \     'cursor_bg' : ['#c5d63c', '185'],
-        \     'cursorline' : ['#034747', '23'],
+        \     'cursorline' : ['#034747', '236'],
         \     'cursorcolumn' : ['#0a3333', '235'],
         \     'cursorlinenr_fg' : ['#ffff5c', '227'],
         \     'cursorlinenr_bg' : ['#011f1f', '233'],
